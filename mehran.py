@@ -592,11 +592,11 @@ def c_s():
         print ''
         pass1 = raw_input(' \033[1;92m[1]Password: ')
         pass2 = raw_input(' \033[1;92m[2]Password: ')
-	   pass3 = raw_input(' \033[1;92m[3]Password: ')
-	   pass4 = raw_input(' \033[1;92m[4]Password: ')
-	   pass5 = raw_input(' \033[1;92m[5]Password: ')
-	   pass6 = raw_input(' \033[1;92m[6]Password: ')
-	   pass7 = raw_input(' \033[1;92m[7]Password: ')
+        pass3 = raw_input(' \033[1;92m[3]Password: ')
+        pass4 = raw_input(' \033[1;92m[4]Password: ')
+	pass5 = raw_input(' \033[1;92m[5]Password: ')
+        pass6 = raw_input(' \033[1;92m[6]Password: ')
+	pass7 = raw_input(' \033[1;92m[7]Password: ')
 	pass8 = raw_input(' \033[1;92m[8]Password: ')
         idt = raw_input(' \033[1;93m[★]Enter id: ')
         
@@ -633,12 +633,12 @@ def c_s():
         print ''
         pass1 = raw_input(' \033[1;92m[1]Password: ')
         pass2 = raw_input(' \033[1;92m[2]Password: ')
-	    pass3 = raw_input(' \033[1;92m[3]Password: ')
-	    pass4 = raw_input(' \033[1;92m[4]Password: ')
-	    pass5 = raw_input(' \033[1;92m[5]Password: ')
-	    pass6 = raw_input(' \033[1;92m[6]Password: ')
-	    pass7 = raw_input(' \033[1;92m[7]Password: ')
-	 pass8 = raw_input(' \033[1;92m[8]Password: ')
+	pass3 = raw_input(' \033[1;92m[3]Password: ')
+	pass4 = raw_input(' \033[1;92m[4]Password: ')
+	pass5 = raw_input(' \033[1;92m[5]Password: ')
+        pass6 = raw_input(' \033[1;92m[6]Password: ')
+        pass7 = raw_input(' \033[1;92m[7]Password: ')
+        pass8 = raw_input(' \033[1;92m[8]Password: ')
         idt = raw_input(' \033[1;93mEnter id: ')
         
         try:
@@ -671,12 +671,12 @@ def c_s():
         print logo
         pass1 = raw_input(' \033[1;92m[1]Password: ')
         pass2 = raw_input(' \033[1;92m[2]Password: ')
-	    pass3 = raw_input(' \033[1;92m[3]Password: ')
-	    pass4 = raw_input(' \033[1;92m[4]Password: ')
-	    pass5 = raw_input(' \033[1;92m[5]Password: ')
-	    pass6 = raw_input(' \033[1;92m[6]Password: ')
-	    pass7 = raw_input(' \033[1;92m[7]Password: ')
-	 pass8 = raw_input(' \033[1;92m[8]Password: ')
+       pass3 =  raw_input(' \033[1;92m[3]Password: ')
+        pass4 = raw_input(' \033[1;92m[4]Password: ')
+        pass5 = raw_input(' \033[1;92m[5]Password: ')
+        pass6 = raw_input(' \033[1;92m[6]Password: ')
+        pass7 = raw_input(' \033[1;92m[7]Password: ')
+        pass8 = raw_input(' \033[1;92m[8]Password: ')
         try:
 	    uidlist = raw_input('[+] File Name: ')
 	    print 47 * '-'
